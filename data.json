@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nombre": "Cheese",
+        "precio": 2400,
+        "img": "./media/cheeseburger.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "nombre": "CheeseBacon",
+        "precio": 2500,
+        "img": "./media/cheesebaconburger.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Cuarto de Libra",
+        "precio": 2500,
+        "img": "./media/cuartodelibraburger.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 4,
+        "nombre": "Oklahoma",
+        "precio": 2500,
+        "img": "./media/oklahomaburger.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 5,
+        "nombre": "Onion",
+        "precio": 2500,
+        "img": "./media/onionburger.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 6,
+        "nombre": "Crispy",
+        "precio": 2500,
+        "img": "./media/crispyburger.jpg",
+        "cantidad": 1
+    }
+]
